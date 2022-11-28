@@ -1,10 +1,11 @@
 package com.example.springboothospitalsecurity.controller;
 
-import com.example.hospitalsecurity.domain.Response;
-import com.example.hospitalsecurity.domain.UserDto;
-import com.example.hospitalsecurity.domain.UserJoinRequest;
-import com.example.hospitalsecurity.domain.UserJoinResponse;
-import com.example.hospitalsecurity.service.UserService;
+
+import com.example.springboothospitalsecurity.domain.Response;
+import com.example.springboothospitalsecurity.domain.UserDto;
+import com.example.springboothospitalsecurity.domain.UserJoinRequest;
+import com.example.springboothospitalsecurity.domain.UserJoinResponse;
+import com.example.springboothospitalsecurity.service.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

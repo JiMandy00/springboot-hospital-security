@@ -1,6 +1,6 @@
 package com.example.springboothospitalsecurity.repository;
 
-import com.example.hospitalsecurity.domain.User;
+import com.example.springboothospitalsecurity.domain.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

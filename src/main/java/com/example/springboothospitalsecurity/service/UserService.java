@@ -1,9 +1,9 @@
 package com.example.springboothospitalsecurity.service;
 
-import com.example.hospitalsecurity.domain.User;
-import com.example.hospitalsecurity.domain.UserDto;
-import com.example.hospitalsecurity.domain.UserJoinRequest;
-import com.example.hospitalsecurity.repository.UserRepository;
+import com.example.springboothospitalsecurity.domain.User;
+import com.example.springboothospitalsecurity.domain.UserDto;
+import com.example.springboothospitalsecurity.domain.UserJoinRequest;
+import com.example.springboothospitalsecurity.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
